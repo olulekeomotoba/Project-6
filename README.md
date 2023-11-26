@@ -1,4 +1,7 @@
 # Project-6
+
+![Screenshot (96)](https://github.com/olulekeomotoba/Project-6/assets/149272576/945f6a46-90db-476a-b653-bae43097da2e)
+
 **TITLE;**  <br>
 Ekiti State Electoral Analysis 2014-2022
 
