@@ -18,24 +18,24 @@ The column distribution, column profile and column quality was elucidated from t
 Transformation was done on the already cleansed data. The data had a lot of issues and required thorough cleansing, formatting, styling and re-organisation. This was done with a very high level of professionalism in order to maintain the integrity and originality of the data. The Transformed Data was then saved and made ready for the data modelling
 
 **DATA MODELING:**  <br> 
-Designed a robust data model, incorporating various tables, relationships, and calculated columns for analysis. Power BI's data modeling capabilities were used to create relationships between different datasets. Data hierachy and date table creation using DAX was done,enabling a holistic view of the organization's performance.
+Designed a robust data model, incorporating various tables, relationships, and calculated columns for analysis. Power BI's data modeling capabilities were used to create relationships between different datasets. Data hierachy and date table creation using DAX was done,enabling a holistic view of the Ekiti State's election performance.
 
 **VISUALIZATION AND ANALYSIS:**  <br> 
 Created interactive visualizations, including bar charts, line graphs, heatmaps, and geographical maps, to represent key performance, trends, and regional comparisons. These visuals allowed for easy interpretation of performance trends. The core focus of the project was on analyzing performance data over time. This involved creating time-based visualizations to track polling votes in various KPIs. Key performance indicators (KPIs) were analyzed over time to access the overall performance in the local government areas where elections took place.
 
 **DASHBOARD CREATION:**  <br> 
 Constructed a user-friendly dashboard presenting KPIs, voting trends, and performance metrics.
-Filtering and Slicing: Implemented dynamic filtering and slicing options for users to drill down into specific data points. This dashboard was developed to present the insights in an intuitive and interactive manner thereby enabling users to gain a deep understanding of the company's performance.
+Filtering and Slicing: Implemented dynamic filtering and slicing options for users to drill down into specific data points. This dashboard was developed to present the insights in an intuitive and interactive manner thereby enabling users to gain a deep understanding of the Ekiti State's election analysis.
 
 **PROJECT OUTCOMES**  <br>
 
 Clear Insights: The project provided a clear picture of how Ekiti State Electoral Analysis 2014-2022 had performed over the specified time period. allowing stakeholders to make informed decisions based on historical data.
 
-Improved Decision-Making: The interactive Power BI dashboard empowered decision-makers to identify areas for improvement, allocate resources effectively, and set realistic performance targets.
+Improved Decision-Making: The interactive Power BI dashboard empowered decision-makers to identify areas for improvement, allocate resources effectively, and set realistic election trends.
 
-Data Transparency: The project enhanced data transparency within the organization, making it easier for employees at all levels to access and understand the company's performance data.
+Data Transparency: The project enhanced data transparency within the state, making it easier for stakeholders at all levels to access and understand the election's performance data.
 
-Data-Driven Culture: The project contributed to fostering a data-driven culture within Northwind Traders Enterprise, emphasizing the importance of data analysis in strategic decision-making.
+Data-Driven Culture: The project contributed to fostering a data-driven culture within the Ekiti state elections, emphasizing the importance of data analysis in strategic decision-making.
 
 In conclusion, the "Ekiti State Electoral Analysis 2014-2022" project successfully harnessed the capabilities of Power BI to transform raw data into actionable insights. This project not only provided valuable historical performance insights but also paved the way for a more data-informed approach to managing the company's operations.
 
